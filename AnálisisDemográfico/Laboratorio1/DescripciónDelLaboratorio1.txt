@@ -1,9 +1,9 @@
-Primera entrega del proyecto, donde se realiza la evaluación de la calidad de la información y pirámides de población.
+Primera entrega del proyecto, donde se realizan pirámides de población de edades individuales por sexo, la evaluación de la calidad de la información y la corrección de la información.
 Se incluyen:
-1. El código de R con el nombre "Lab1_2010y2020", con el código que calcula diferentes indicadores que evaluan la calidad de la información de la población, obtenida mediante los censos de 2010 y 2020 del INEGI.
+1. El código de R con el nombre "Lab1_2010y2020", con el código que calcula lo antes mencionado mediante la información de los censos de 2010 y 2020 del INEGI.
 
-2. Un archivo PDF con el nombre de "Laboratorio 1 - ROM", con el informe y la interpretación de cada indicador que evalua la calidad de la información.
+2. Un archivo PDF con el nombre de "Laboratorio 1 - ROM", con el informe y la interpretación de la información obtenida mediante el código.
 
-3. Un archivo .CSV con el nombre "Pob Texcoco 2010", con la información de la población del municipio de Texcoco, Estado de México mediante el Censo de 2010 del INEGI
+3. Un archivo .CSV con el nombre "Pob Texcoco 2010", con la información de la población del municipio de Texcoco, Estado de México obtenida del Censo de 2010 del INEGI
 
-4. Un archivo .CSV con el nombre "Pob Texcoco 2020", con la información de la población del municipio de Texcoco, Estado de México mediante el Censo de 2020 del INEGI
+4. Un archivo .CSV con el nombre "Pob Texcoco 2020", con la información de la población del municipio de Texcoco, Estado de México obtenida del Censo de 2020 del INEGI
