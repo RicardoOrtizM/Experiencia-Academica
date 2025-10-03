@@ -1,4 +1,4 @@
-Primera entrega del proyecto, donde se realiza la evaluación de la calidad de la información.
+Primera entrega del proyecto, donde se realiza la evaluación de la calidad de la información y pirámides de población.
 Se incluyen:
 1. El código de R con el nombre "Lab1_2010y2020", con el código que calcula diferentes indicadores que evaluan la calidad de la información de la población, obtenida mediante los censos de 2010 y 2020 del INEGI.
 
