@@ -1,3 +1,0 @@
-Proyecto para realizar el análisis demográfico del municipio de Texcoco, del Estado de México, utilizando la información de la población obtenida del INEGI mediante el "Censo 2010" y "Censo 2020".
-1. El código de R de cada laboratorio realiza los calculos de diferentes indicadores demográficos.
-2. El archivo PDF de cada laboratorio contiene el informe y la interpretación de los resultados obtenidos mediante el uso del código R.
