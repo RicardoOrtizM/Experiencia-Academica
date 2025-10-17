@@ -1,7 +1,7 @@
 Segunda entrega del proyecto. Incluye:
-•	Construcción de pirámides de población.
-•	Estimación de tasas de crecimiento poblacional.
-•	Cálculo de la población a mitad de año censal.
-•	Código en R ("Lab2_2010y2020.R") con los cálculos realizados.
-•	Informe en PDF ("Laboratorio 2 - ROM.pdf") con resultados e interpretación.
-•	Archivos CSV con la información de la población corregida, proveniente de la primera entrega.
+- Construcción de pirámides de población.
+- Estimación de tasas de crecimiento poblacional.
+- Cálculo de la población a mitad de año censal.
+- Código en R ("Lab2_2010y2020.R") con los cálculos realizados.
+- Informe en PDF ("Laboratorio 2 - ROM.pdf") con resultados e interpretación.
+- Archivos CSV con la información de la población corregida, proveniente de la primera entrega.
