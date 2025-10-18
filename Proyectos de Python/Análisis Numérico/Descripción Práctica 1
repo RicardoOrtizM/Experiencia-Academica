@@ -1,5 +1,5 @@
-Proyecto desarrollado en Python, enfocado en la organización y manipulación de datos en LISTAS, además del uso de ciclos, para su uso en la búsqueda de elementos 
-y conversión de números entre sistemas numéricos.
+Proyecto desarrollado en Python, enfocado en la organización y manipulación de datos en LISTAS, además del uso de ciclos y creación de 
+funciones, para su uso en la búsqueda de elementos y conversión de números entre sistemas numéricos.
 
 El código de la práctica 1 contiene tres secciones principales:
   1. Organización de una lista de palabras, además de la búsqueda de un elemento de la lista mediante su índice o nombre.
