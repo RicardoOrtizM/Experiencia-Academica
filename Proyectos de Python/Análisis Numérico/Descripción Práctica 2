@@ -1,0 +1,9 @@
+Proyecto desarrollado en Python, enfocado en la organización y manipulación de datos en LISTAS y MATRICES, además del uso de ciclos y creación de 
+funciones, para su uso en la resolución de ecuaciones no lineales y obtención de diferentes características de matrices.
+
+El código de la práctica 2 contiene dos secciones principales:
+  1. Métodos para resolver ecuaciones no lineales, creación de tablas de errores considerando cierto número de iteraciones y decimales de tolerancia.
+    a) Método de la Falsa Posición.
+    b) Método de la Secante.
+
+  2. Características de una matriz.
