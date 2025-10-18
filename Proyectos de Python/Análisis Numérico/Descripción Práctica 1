@@ -1,0 +1,9 @@
+Proyecto desarrollado en Python, enfocado en la organización y manipulación de datos en LISTAS, para su uso en la búsqueda de elementos y conversión de números entre sistemas numéricos.
+
+El código de la práctica 1 contiene tres secciones principales:
+  1. Organización de una lista de palabras, además de la búsqueda de un elemento de la lista mediante su índice o nombre.
+
+  2. Creación de una función para el Sistema de Punto Flotante Compuesto, que realiza la conversión de un número decimal a binario 
+y posteriormente al sistema de punto flotante en el formato compuesto.
+
+  3. Desarrollo de un algoritmo para convertir números binarios a decimales.
