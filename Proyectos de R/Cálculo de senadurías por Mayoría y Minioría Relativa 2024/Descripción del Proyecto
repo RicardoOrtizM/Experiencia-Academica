@@ -1,10 +1,13 @@
-Cálculo de la composición del Senado de México con base en los resultados de las elecciones federales de 2024, considerando la asignación de escaños por mayoría y minoría relativas según las reglas del INE. 
+Cálculo de la composición del Senado de México con base en los resultados de las elecciones federales de 2024, 
+considerando la asignación de escaños por mayoría y minoría relativas según las reglas del INE. 
 
 Se utilizan los cómputos distritales del INE y los convenios de coalición de los partidos políticos por entidad federativa.
 
 Se incluyen:
-- Código en R (MayoríaMinoríaRelativaSenadores2024), donde se realiza el procesamiento de los datos, la identificación de los partidos o coaliciones que obtuvieron el primer y segundo lugar por estado, y la asignación de senadurías correspondientes.
-- Informe PDF (Mayoría y Minoría relativa del senado 2024 _ ROM) con la descripción de los cálculos y la interpretación de los resultados obtenidos mediante el código.
+- Código en R (MayoríaMinoríaRelativaSenadores2024), donde se realiza el procesamiento de los datos, la identificación de los partidos 
+o coaliciones que obtuvieron el primer y segundo lugar por estado, y la asignación de senadurías correspondientes.
+- Informe PDF (Mayoría y Minoría relativa del senado 2024 _ ROM) con la descripción de los cálculos y la interpretación de los 
+resultados obtenidos mediante el código.
 - Bases de datos en formato .CSV:
   a) “SEN_2024.csv” con los resultados de las votaciones de 2024 obtenidos del INE.
   b) “SEN_2024_1.csv” con los resultados corregidos de las votaciones de 2024 obtenidos del INE.
