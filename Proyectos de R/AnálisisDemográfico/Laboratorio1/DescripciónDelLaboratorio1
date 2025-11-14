@@ -1,8 +1,0 @@
-Primera entrega del proyecto. Incluye:
-- Construcción de pirámides de población de edades individuales por sexo.
-- Evaluación y corrección de la calidad de la información censal.
-- Código en R ("Lab1_2010y2020.R") con los cálculos basados en los Censos 2010 y 2020 del INEGI.
-- Informe en PDF ("Laboratorio 1 - ROM.pdf") con resultados e interpretación de:
-- Bases de datos en formato CSV:
-  a) "Pob Texcoco 2010.csv" – Población municipal según Censo 2010 (INEGI).
-  b) "Pob Texcoco 2020.csv" – Población municipal según Censo 2020 (INEGI).
