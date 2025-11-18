@@ -1,0 +1,8 @@
+Proyecto desarrollado en Python cuyo objetivo es la creación de una función para calcular el Value at Risk (VaR) de un portafolio financiero utilizando distintos métodos estadísticos. 
+
+El código permite analizar el riesgo de pérdidas de un conjunto de activos mediante técnicas ampliamente usadas en gestión de riesgos.
+
+La función permite calcular:
+- El VaR Histórico: El cual usa datos pasados para estimar cuánto podría perder una inversión en un día malo.
+- El VaR Paramétrico: Sirve para estimar rápidamente cuánto puede perder un portafolio suponiendo una distribución normal del mercado.
+- Simulaciones Montecarlo: Sirve para estimar el precio de un portafolio para los próximos 5 días.
